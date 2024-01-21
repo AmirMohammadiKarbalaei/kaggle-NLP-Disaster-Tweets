@@ -13,8 +13,8 @@ Each sample in the data has the following information:
 ## PROCESS
 The development of a predictive model has involved the implementation of the following procedural steps:
 
-### Data Cleaning: T
-he tweets underwent multiple rounds of cleaning, encompassing tasks such as removing punctuations and eliminating non-English words.
+### Data Cleaning:
+The tweets underwent multiple rounds of cleaning, encompassing tasks such as removing punctuations and eliminating non-English words.
 ### Data Preparation: 
 Tweets have been vectorized and split into training and test sets.
 ### Model Implementation: 
